@@ -47,6 +47,24 @@ body {
 .custom-btn:active {
   transform: scale(0.97);
 }
+.history {
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #d89090;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  max-height: 200px;
+  overflow-y: auto;
+  font-family: Arial, sans-serif;
+}
+
+.history span {
+  display: block;
+  margin: 5px 0;
+  font-size: 14px;
+  color: #333;
+}
 
 .wrapper p {
   color: #333;
