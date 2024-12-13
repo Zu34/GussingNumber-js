@@ -4,7 +4,8 @@
 !!!!!!!
 ## added history_box of user inputs
 
-![Theme Setting](./historybox.png)
+![Game Screenshot](./historybox.png)
+
 
 ## Overview
 A browser-based **Number Guessing Game** where players guess a random number between 1 and 99 within 10 chances. The game provides feedback and hints after each guess.
